@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+ul{
+    border-right:2px solid gray;
+    padding-left:100px;
+    width:50px;
+}
+
+a{
+    color:green;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+#content{
+    margin-top:20px;
+}
